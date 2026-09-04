@@ -18,6 +18,7 @@
  *
  */
 
+#include <shellapi.h>
 #include "progman.h"
 #include "pmanfunc.h"
 #include "dde.h"

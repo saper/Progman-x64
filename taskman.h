@@ -8,6 +8,7 @@
 #endif
 
 #include "progman.h"
+#include <winuser.h>
 // #include <winuserp.h>
 
 // WINUSERP.H

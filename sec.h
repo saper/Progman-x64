@@ -17,6 +17,7 @@
 #endif
 
 #include <windows.h>
+#include <ntifs.h>
 // #include <winuserp.h>
 
 //
