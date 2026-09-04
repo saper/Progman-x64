@@ -15,6 +15,7 @@ processorArchitecture='*' publicKeyToken='6595b64144ccf1df' language='*'\"")
 // Includes
 #include <windows.h>
 #include <Shlobj.h>
+#include <ntdef.h>
 #include "extract.h"
 #include "pmhelp.h"
 
